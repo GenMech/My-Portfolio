@@ -1,11 +1,11 @@
 {
-  "name": "portfolio_apoorv",
+  "name": "portfolio_gitesh",
   "description": "Portfolio Website",
   "version": "1.0.0",
-  "author": "Apoorv Dwivedi <apoorvd14@gmail.com>",
+  "author": "Gitesh Pareek <pareekgitesh89@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apoorvdwi/Portfolio"
+    "url": "https://github.com/GenMech/My-Portfolio"
   },
   "keywords": [
     "gatsby"

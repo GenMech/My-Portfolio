@@ -1,14 +1,14 @@
 module.exports = {
-  siteTitle: 'Apoorv Dwivedi | Software Engineer',
+  siteTitle: 'Gitesh Pareek | Software Engineer',
   siteDescription:
-    'Apoorv Dwivedi is a full-time software engineer at Skyflow specializing in full stack development.',
+    'Gitesh Pareek is a full-time software engineer at Skyflow specializing in full stack development.',
   siteKeywords:
-    'Apoorv Dwivedi, Apoorv, Dwivedi, apoorv-dwivedi, software engineer, web developer, mait',
+    'Gitesh Pareek, Apoorv, Dwivedi, apoorv-dwivedi, software engineer, web developer, mait',
   siteUrl: 'https://apoorvdwivedi.live',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-CJZ4NM2JE1',
   googleVerification: 'todo',
-  name: 'Apoorv Dwivedi',
+  name: 'Gitesh Pareek',
   location: 'Delhi, India',
   email: 'apoorvd14@gmail.com',
   github: 'https://github.com/apoorvdwi',

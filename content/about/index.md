@@ -15,7 +15,7 @@ skills:
   - NuxtJS
 ---
 
-Hello! I'm Apoorv, Software Engineer at [Skyflow](https://skyflow.com) based out of Delhi.
+Hello! I'm Gitesh, Software Engineer at [Skyflow](https://skyflow.com) based out of Delhi.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 

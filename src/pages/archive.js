@@ -109,7 +109,7 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Apoorv Dwivedi</title>
+        <title>Archive | Gitesh Pareek</title>
         <link rel="canonical" href="https://apoorvdwivedi.live/archive" />
       </Helmet>
 
