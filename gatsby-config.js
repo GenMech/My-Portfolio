@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ApoorvDwivedi',
-        short_name: 'ApoorvDwivedi',
+        name: 'GiteshPareek',
+        short_name: 'GiteshPareek',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

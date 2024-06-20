@@ -1,33 +1,31 @@
 module.exports = {
   siteTitle: 'Gitesh Pareek | Software Engineer',
-  siteDescription:
-    'Gitesh Pareek is a full-time software engineer at Skyflow specializing in full stack development.',
-  siteKeywords:
-    'Gitesh Pareek, Apoorv, Dwivedi, apoorv-dwivedi, software engineer, web developer, mait',
+  siteDescription: 'Gitesh Pareek is a software engineer specializing in full stack development.',
+  siteKeywords: 'Gitesh Pareek, genmech, GenMech, software engineer, web developer, mait',
   siteUrl: 'https://apoorvdwivedi.live',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-CJZ4NM2JE1',
   googleVerification: 'todo',
   name: 'Gitesh Pareek',
   location: 'Delhi, India',
-  email: 'apoorvd14@gmail.com',
-  github: 'https://github.com/apoorvdwi',
+  email: 'pareekgitesh89@gmail.com',
+  github: 'https://github.com/GenMech',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/apoorvdwi',
+      url: 'https://github.com/GenMech',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/apoorvdwi/',
+      url: 'https://www.linkedin.com/in/itsgitesh/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Apoorvdwi',
+      url: 'https://twitter.com/PareeKGitesh89',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/apoorv_dwi2506',
+      name: 'Leetcode',
+      url: 'https://leetcode.com/GenMech/',
     },
   ],
 

@@ -5,22 +5,25 @@ showInProjects: false
 skills:
   - JavaScript
   - TypeScript
+  - NextJS
   - ReactJS
   - NodeJS
   - GoLang
   - Docker
+  - NodeJS
   - MongoDB
   - PostgreSQL
-  - Jenkins
-  - NuxtJS
+  - Redis
 ---
 
-Hello! I'm Gitesh, Software Engineer at [Skyflow](https://skyflow.com) based out of Delhi.
+Hello! I'm Gitesh, Software Engineer based out of Delhi.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
+I love building things that live on the internet, whether that be websites, applications, or anything in between.
 
-I was an MLH Fellow for Summer '22 @ [Solana Labs](https://solana.com/) where I worked with [Metaplex](https://www.metaplex.com/) under Solana Ecosystem. I was also a GitHub Extern for Winter '22 where I worked with [Symbl.ai](https://symbl.ai/) as a Software Engineering Intern. Prior to this, I worked with [Intervue](https://intervue.io) as Software Engineering Intern.
+I worked at [Shop2App](https://www.shop2app.com/) as a Software Engineering Intern where I collaborated with the Founding Engineering team to develop an [App](https://apps.shopify.com/shop2app-mobile-app-builder) which is live on the Shopify App Store. Prior to this, I worked as a Full Stack Developer at [Consainsights](https://consainsights.com/), a Management Consulting firm. Additionally, I have freelanced, working on various projects with my seniors.
 
-I along with my team have won [UNESCO India Africa Hackathon 2022](https://uia.mic.gov.in/) as well as [Smart India Hackathon Software Edition 2022](https://sih.gov.in/). We built solutions around around Education themed problem statement.
+I along with my team have won [MLH Hack this Fall S2](https://hackthisfall-2.devpost.com/). We build CodeMate a peer to peer coding platform where you can code with your mates and solve doubts together.
+
+I also founded CodingVets, a college community of active peers that aims at bridging the gap between newbies and pros, fostering a supportive coding culture with the motto "Learn Together, Grow Together"
 
 Here are a few technologies I've been working with recently:
