@@ -24,6 +24,6 @@ I worked at [Shop2App](https://www.shop2app.com/) as a Software Engineering Inte
 
 I along with my team have won [MLH Hack this Fall S2](https://hackthisfall-2.devpost.com/). We build CodeMate a peer to peer coding platform where you can code with your mates and solve doubts together.
 
-I also founded CodingVets, a college community of active peers that aims at bridging the gap between newbies and pros, fostering a supportive coding culture with the motto "Learn Together, Grow Together"
+I also founded [CodingVets](https://www.linkedin.com/company/codingvets/), a college community of active peers that aims at bridging the gap between newbies and pros, fostering a supportive coding culture with the motto "Learn Together, Grow Together"
 
 Here are a few technologies I've been working with recently:

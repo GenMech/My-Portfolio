@@ -30,7 +30,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   ::-webkit-scrollbar-thumb {
-    background: #53F79E !important;
+    background: #08e8de !important;
   }
   }
 
