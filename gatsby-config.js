@@ -132,9 +132,12 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: config.googleAnalyticsID,
+        trackingIds: [config.googleAnalyticsID],
+      },
+      gtagConfig: {
+        send_page_view: true, // ensures page views are sent automatically
       },
     },
   ],
